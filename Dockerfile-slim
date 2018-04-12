@@ -4,8 +4,8 @@ RUN apt-get update && apt-get install -y git curl gpg && rm -rf /var/lib/apt/lis
 
 ARG user=jenkins
 ARG group=jenkins
-ARG uid=1000
-ARG gid=1000
+ARG uid=515
+ARG gid=515
 ARG http_port=8080
 ARG agent_port=50000
 
