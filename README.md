@@ -259,4 +259,4 @@ Bats can be easily installed with `brew install bats` on OS X
 
 # Questions?
 
-Jump on irc.freenode.net and the #jenkins room. Ask!
+Jump on irc.freenode.net and the #jenkins room. Ask!!
