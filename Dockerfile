@@ -1,4 +1,5 @@
 FROM openjdk:8-jdk
+MAINTAINER Covisint PDT <product-dev-tools@covisint.com>
 
 RUN apt-get update && apt-get install -y git curl && rm -rf /var/lib/apt/lists/*
 
